@@ -39,7 +39,7 @@ I recently learned how to do a standing backflip! Oh, and I really like computer
 #### 📌 Check these out!
 <div align="center" style="display: flex; flex" >
     <a href="https://github.com/NoahDobie/Face-Track-To-Lean" style="margin-left: 10px;">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NoahDobie&repo=Face-Track-To-Lean&theme=shadow_red" width="400" height="200" />
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NoahDobie&repo=Face-Track-To-Lean&theme=shadow_blue" width="400" height="200" />
     </a>
     <a href="https://github.com/NoahDobie/Noahs-Weather-App" style="margin-left: 10px;">
         <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NoahDobie&repo=Noahs-Weather-App&theme=shadow_red" width="400" height="200" />
