@@ -36,7 +36,7 @@ I recently learned how to do a standing backflip! Oh, and I really like computer
 </div>
 
 #### 📌 Check these out!
-<div style="display: flex; flex" >
+<div align="center" style="display: flex; flex" >
     <a href="https://github.com/NoahDobie/Face-Track-To-Lean" style="margin-left: 10px;">
         <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NoahDobie&repo=Face-Track-To-Lean&theme=shadow_red" width="400" height="200" />
     </a>
@@ -47,12 +47,10 @@ I recently learned how to do a standing backflip! Oh, and I really like computer
 
 #### 📊 Stats
 
-<div align="left">
+<div align="center">
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NoahDobie&theme=shadow_red)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NoahDobie&layout=donut&theme=shadow_red&hide=cpp,cmake&langs_count=8&hide_progress=true)](https://github.com/NoahDobie)
 
 </div>
-
-
