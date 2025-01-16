@@ -42,7 +42,7 @@ I recently learned how to do a standing backflip! Oh, and I really like computer
         <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NoahDobie&repo=Face-Track-To-Lean&theme=shadow_blue" width="400" height="200" />
     </a>
     <a href="https://github.com/NoahDobie/Noahs-Weather-App" style="margin-left: 10px;">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NoahDobie&repo=Noahs-Weather-App&theme=shadow_red" width="400" height="200" />
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NoahDobie&repo=Noahs-Weather-App&theme=shadow_green" width="400" height="200" />
     </a>
 </div>
 
@@ -50,7 +50,7 @@ I recently learned how to do a standing backflip! Oh, and I really like computer
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=NoahDobie&theme=shadow_green&border_radius=10)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=NoahDobie&theme=shadow-red&border_radius=10)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NoahDobie&layout=donut&theme=shadow_blue&hide=cpp,cmake&langs_count=8&hide_progress=true)](https://github.com/NoahDobie)
 
