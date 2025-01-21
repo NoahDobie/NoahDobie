@@ -50,7 +50,11 @@ I recently learned how to do a standing backflip! Oh, and I really like computer
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=NoahDobie&theme=shadow-red&border_radius=10)](https://git.io/streak-stats)
+  <div>
+    <a href="https://git.io/streak-stats">
+      <img src="https://github-readme-streak-stats-seven-azure.vercel.app?user=NoahDobie&theme=shadow-red&hide_border=false&short_numbers=true&date_format=j%20M%5B%20Y%5D&mode=daily" alt="GitHub Streak" "/>
+    </a>
+  </div>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NoahDobie&layout=donut&theme=shadow_blue&hide=cpp,cmake&langs_count=8&hide_progress=true)](https://github.com/NoahDobie)
 
