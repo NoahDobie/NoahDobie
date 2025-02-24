@@ -16,8 +16,8 @@ A computer science student and developer who loves jumping into cool projects. W
 
 #### 🔭 I'm workin' on
 - [Face Track to Lean](https://github.com/NoahDobie/Face-Track-To-Lean): Tracking left and right leans with the camera and converting them to keyboard inputs.
-- [Noah's Weather App](https://github.com/NoahDobie/Noahs-Weather-App): A web app providing forecasts for up to 4 locations at once.
-- [Noahs' 1 Rep Max Calculator](https://github.com/NoahDobie/rep-calculator): A web app for users to estimate their reps at the gym.
+- [Weather App](https://github.com/NoahDobie/Noahs-Weather-App): A web app providing forecasts for up to 4 locations at once.
+- [1 Rep Max Calculator](https://github.com/NoahDobie/rep-calculator): A web app for users to estimate their reps at the gym.
 
 #### 🌱 I'm learning and using
 <div align="center">
