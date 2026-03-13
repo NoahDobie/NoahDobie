@@ -6,9 +6,9 @@
 A computer science student and developer who loves jumping into cool projects. Whether it's a new framework or a fun side project, I'm always up for learning and growing!
 <div align="center"><br>
 
-**4th-year Student in Computing Science and Management at [TRU](https://www.tru.ca/science/departments/compsci.html)**
+**4th-year Student in Computing Science and Management Minor at [TRU](https://www.tru.ca/science/departments/compsci.html)**
 
-**Co-op Software Developer at [Cayenta](https://www.cayenta.com/)**
+**SWE @ [Cayenta](https://www.cayenta.com/)**
 
 *Chocolate milk enthusiast*
 
@@ -16,13 +16,12 @@ A computer science student and developer who loves jumping into cool projects. W
 
 #### 🔭 I'm workin' on
 - [Face Track to Lean](https://github.com/NoahDobie/Face-Track-To-Lean): Tracking left and right leans with the camera and converting them to keyboard inputs.
-- [Weather App](https://github.com/NoahDobie/Noahs-Weather-App): A web app providing forecasts for up to 4 locations at once.
 - [1 Rep Max Calculator](https://github.com/NoahDobie/rep-calculator): A web app for users to estimate their reps at the gym.
 
 #### 🌱 I'm learning and using
 <div align="center">
 
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=for-the-badge) ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?logo=tailwind-css&logoColor=white&style=for-the-badge) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge) ![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white&style=for-the-badge) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?logo=graphql&logoColor=white&style=for-the-badge) ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge) ![Jira](https://img.shields.io/badge/-Jira-0052CC?logo=jira&logoColor=white&style=for-the-badge)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=for-the-badge) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge) ![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white&style=for-the-badge) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?logo=graphql&logoColor=white&style=for-the-badge) ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge) ![Jira](https://img.shields.io/badge/-Jira-0052CC?logo=jira&logoColor=white&style=for-the-badge)
 
 </div>
 
