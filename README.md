@@ -15,6 +15,7 @@ A computer science student and developer who loves jumping into cool projects. W
 </div>
 
 #### 🔭 I'm workin' on
+- [Custom Car Gauges](https://github.com/NoahDobie/pajero-gauges): A custom PCB + ESP-32 setup to display car engine information on OLED displays.
 - [Face Track to Lean](https://github.com/NoahDobie/Face-Track-To-Lean): Tracking left and right leans with the camera and converting them to keyboard inputs.
 - [1 Rep Max Calculator](https://github.com/NoahDobie/rep-calculator): A web app for users to estimate their reps at the gym.
 
